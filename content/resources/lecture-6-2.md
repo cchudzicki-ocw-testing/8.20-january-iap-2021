@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6.3: Spacecraft-on-a-Rope Paradox'
 uid: 9a1ae12a-d034-beef-699a-0d9120e7e303
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We discuss how objects contract and the spacecraft-on-a-rope paradox. (04:35)
 
 **Instructor:** Prof. Markus Klute
+

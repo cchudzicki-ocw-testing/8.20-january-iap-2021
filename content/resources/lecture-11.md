@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11.1: Charge and Current'
 uid: 2f86fa44-38c8-30c3-81c5-92502761f595
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We discuss the electromagnetic effect in the context of special relativity. (06:36)
 
 **Instructor:** Prof. Markus Klute
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4.4: Invariance'
 uid: ba2f3d18-1880-5170-88e3-bb9aeb7d318b
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We summarize briefly and then discuss invariant observables. (05:49)
 
 **Instructor:** Prof. Markus Klute
+

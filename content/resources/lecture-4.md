@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4.1: Time Dilation'
 uid: e15d771f-b6c9-1fbe-9776-399a8c2f81ac
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Time is suspect. We analyze the consequences of Einstein's postulate and find time dilation. (13:38)
 
 **Instructor:** Prof. Markus Klute
+

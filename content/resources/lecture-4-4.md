@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4.5: Lorentz Transformation'
 uid: a30ef886-79bb-950c-0dae-2653a345fe7c
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We derive the Lorentz transformation. (06:54)
 
 **Instructor:** Prof. Markus Klute
+

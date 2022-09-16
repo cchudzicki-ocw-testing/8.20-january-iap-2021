@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10.2: The Large Electron-Positron Collider'
 uid: 95e16568-e93b-d6f0-720e-c26b7be1f9f4
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We talk about the large electron-positron collider (LEP) and the velocity of electrons and positrons. (04:21)
 
 **Instructor:** Prof. Markus Klute
+

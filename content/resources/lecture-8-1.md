@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8.2: Introduction to 4-Vector Notation'
 uid: c4662b67-4f06-56f5-77a1-087711d7399d
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Introduction of 4-vectors. (05:45)
 
 **Instructor:** Prof. Markus Klute
+

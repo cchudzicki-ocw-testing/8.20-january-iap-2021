@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5.4: Regions in Spacetime Diagrams'
 uid: b2b231b8-3997-f459-5739-58d08190759d
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We introduce time-like, space-like, and light-like regions in spacetime diagrams. (04:32)
 
 **Instructor:** Prof. Markus Klute
+

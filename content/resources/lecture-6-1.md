@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6.2: Twin Paradox'
 uid: b4de73ca-2a1a-5e39-618b-192e815e333d
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We discuss the twin paradox. (06:07)
 
 **Instructor:** Prof. Markus Klute
+

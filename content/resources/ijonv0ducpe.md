@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-20-introduction-to-special-relativity-january-iap-2021/6a5af5702a3fcdf03ab3b736ed55958a_ijOnv0DUCPE.srt
+file: /media/courses/8-20-introduction-to-special-relativity-january-iap-2021/6a5af5702a3fcdf03ab3b736ed55958a_ijOnv0DUCPE.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

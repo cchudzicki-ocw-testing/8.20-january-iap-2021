@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12.2: Time Dilation Effect on Earth'
 uid: bc367507-a78d-0638-c7d2-4bcbe2754b6b
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Gravitational time dilation and the effect it has on earth. (03:10)
 
 **Instructor:** Prof. Markus Klute
+

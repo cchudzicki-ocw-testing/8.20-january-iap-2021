@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1.3: History of Special Relativity'
 uid: 7afefef6-12ba-c3f3-27b3-20f1f824e308
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** The historic backdrop for special relativity. (10:46)
 
 **Instructor:** Prof. Markus Klute
+

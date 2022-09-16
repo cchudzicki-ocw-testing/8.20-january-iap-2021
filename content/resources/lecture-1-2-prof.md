@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 1.2: Prof. Klute\u2019s Research"
 uid: d3cb7a60-d2b7-b1d5-f33a-4e1cc6a68ac1
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** A very brief introduction to Prof. Klute's research and work at the Large Hadron Collider. (13:22)
 
 **Instructor:** Prof. Markus Klute
+

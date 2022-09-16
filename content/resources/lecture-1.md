@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1.1: Course Organization'
 uid: 00cc4318-894d-8ac9-413c-580772a8f6ed
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Discussion of the course outline and setup, grading scheme, and first introduction to the concept of relativity. (19:07)
 
 **Instructor:** Prof. Markus Klute
+

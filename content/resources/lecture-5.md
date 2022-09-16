@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5.1: Voyager Program'
 uid: d0326a50-f56a-7683-7243-5fb4dc01de48
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** In this short section, we take a journey to Alpha Centauri. (03:36)
 
 **Instructor:** Prof. Markus Klute
+

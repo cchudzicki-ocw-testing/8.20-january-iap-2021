@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12.6: Experimental Evidence'
 uid: 456660f7-eea4-cf9e-1732-5bdfdd926b98
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Experimental evidence of general relativity. (09:35)
 
 **Instructor:** Prof. Markus Klute
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10.1: Tests of Special Relativity'
 uid: d098fa58-1e61-38ba-ffea-4e5f6810ffae
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Einstein's postulates are not axioms and need to be tested. We review some of the experimental evidence. (06:33)
 
 **Instructor:** Prof. Markus Klute
+

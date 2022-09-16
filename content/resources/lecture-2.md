@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2.1: Events'
 uid: 31050824-f436-da22-4496-44f7dc700b34
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We define the principle of relativity in this section and make a difference between events and frames used to describe them. (03:32)
 
 **Instructor:** Prof. Markus Klute
+

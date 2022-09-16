@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12.1: Equivalence Principle'
 uid: 68da8607-7433-67f3-c8ae-bc768a442b2b
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We discuss the equivalence of gravitational and inertial mass as discovered by Einstein. (01:58)
 
 **Instructor:** Prof. Markus Klute
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10.4: Absorption and Emission of Photons'
 uid: 20e377d3-d314-b011-ea62-a22ca2ada8fc
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We learn how photons are absorbed and emitted by an atom. (05:15)
 
 **Instructor:** Prof. Markus Klute
+

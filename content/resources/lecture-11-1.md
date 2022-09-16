@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11.2: Electric and Magnetic Fields'
 uid: 5fa90a89-c090-d649-b2be-dd47c09d4f2a
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** A variety of laws explain the properties of electric and magnetic fields. (04:30)
 
 **Instructor:** Prof. Markus Klute
+

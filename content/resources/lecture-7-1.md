@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7.2: Relativistic Doppler Effect'
 uid: b99973f2-47c6-722b-d2c4-c93c400b0fb4
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We now turn to the relativistic Doppler effect. (03:19)
 
 **Instructor:** Prof. Markus Klute
+

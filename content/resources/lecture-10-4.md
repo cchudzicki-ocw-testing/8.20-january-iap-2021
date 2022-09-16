@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10.5: Decay of a Pion'
 uid: 09d8c9b5-3f56-d5f3-5fc2-a845a505d98e
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We study particle decays using pions as an example. (03:01)
 
 **Instructor:** Prof. Markus Klute
+

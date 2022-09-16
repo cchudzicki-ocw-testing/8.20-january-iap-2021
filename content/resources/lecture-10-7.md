@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10.8: Global Positioning System'
 uid: 64b56152-1975-5c6d-df5f-064728fb1712
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Global positioning systems as an application of special relativity. (04:55)
 
 **Instructor:** Prof. Markus Klute
+

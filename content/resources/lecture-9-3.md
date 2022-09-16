@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9.4: Forces and Kinetic Energy'
 uid: 6b2b4551-d0a2-f732-9fee-3952b3f08e0b
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Forces and kinetic energy. (06:46)
 
 **Instructor:** Prof. Markus Klute
+

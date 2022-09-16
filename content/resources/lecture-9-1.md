@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9.2: Energy Conservation'
 uid: 6bd95bde-6e82-6753-a42e-ee6ebcccb24a
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Further investigation of the energy-momentum 4-vector. (03:43)
 
 **Instructor:** Prof. Markus Klute
+

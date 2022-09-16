@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4.2: Muons'
 uid: 43fa573a-1bec-23f0-5f8d-f00aa478f525
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** A brief introduction to muons and a discussion of time dilation extending the lifetime of particles. (04:47)
 
 **Instructor:** Prof. Markus Klute
+

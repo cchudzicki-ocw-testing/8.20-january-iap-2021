@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12.3: Bending of Light'
 uid: c1b8f9bf-2a62-340a-bcca-eeb39a9722dc
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Bending of light as a consequence of general relativity and how we use a total solar eclipse to test it. (04:40)
 
 **Instructor:** Prof. Markus Klute
+

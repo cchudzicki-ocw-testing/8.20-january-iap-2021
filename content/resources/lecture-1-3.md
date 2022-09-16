@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1.5: Categories of Physics'
 uid: 69b6b75b-6274-9661-d3f2-ee64c77d96e1
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** Special relativity is a complete description of physical phenomena at high speed. In this short video we discuss how it fits in with other categories of physics. (03:31)
 
 **Instructor:** Prof. Markus Klute
+

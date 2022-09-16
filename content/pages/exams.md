@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 2 midterm exams and solutions and final exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

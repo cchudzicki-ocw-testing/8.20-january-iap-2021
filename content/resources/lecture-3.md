@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3.1: Light'
 uid: 47430cad-5ffc-4d28-12ea-ed83c09c5250
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We start the discussion of light. What is it and how does it propagate? (07:27)
 
 **Instructor:** Prof. Markus Klute
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4.3: Length Contraction'
 uid: c4ddc318-15a0-cb14-0ba5-ec85db8aaa07
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We derive length contraction. (03:29)
 
 **Instructor:** Prof. Markus Klute
+
